@@ -1,0 +1,22 @@
+# Ignore build folders
+bin/
+build/
+
+# Ignore compiled files
+*.exe
+*.o
+*.obj
+*.pdb
+
+# (Optional) Ignore Visual Studio Code workspace settings
+.vscode/
+
+# (Optional) Ignore archive/zip files if you don't want them in repo
+*.zip
+*.rar
+*.7z
+
+# Ignore OS-specific or temporary files
+.DS_Store
+Thumbs.db
+test.cpp
