@@ -3,6 +3,9 @@
 ## Overview
 Smart Traffic Light Simulation is a real-time traffic simulation featuring adaptive traffic lights controlled by a reinforcement learning (RL) algorithm. It models an intelligent 4-way intersection where vehicles dynamically interact with the traffic signals, and queue-based optimization is applied to improve traffic flow.
 
+## Simulation Video
+▶️ [Traffic Simulation](https://drive.google.com/file/d/1M1ShuI9tzs_RBVAZBA6lCJpm3eJRKxNf/view?usp=sharing)
+
 ## Features
 - **Realistic Traffic Simulation:** Supports various vehicle types (cars, trucks, ambulances, taxis, etc.).
 - **Adaptive Traffic Light System:** Optimizes green light duration based on real-time congestion levels.
